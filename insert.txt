@@ -1,0 +1,23 @@
+INSERT INTO Users
+(FirstName,LastName,Age)
+VALUES ('John','Ferdinand',21)
+
+INSERT INTO Users
+(FirstName,LastName,Age)
+VALUES ('Daryl','Cortiga',24)
+
+INSERT INTO Users 
+(FirstName,LastName,Age)
+VALUES ('Jarvis','Washington',31)
+
+INSERT INTO Users 
+(FirstName,LastName,Age)
+VALUES ('Barry','Alen',29)
+
+INSERT INTO Users
+(FirstName,LastName,Age)
+VALUES ('Saint','Bernard',17)
+
+INSERT INTO Users 
+(FirstName,LastName,Age)
+VALUES ('Ryan','McKenzey',25)
